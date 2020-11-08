@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">popular-movies-app</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="tv_original_language">original language</string>
+    <string name="tv_release_date">release date</string>
+    <string name="tv_movie_title">movie title</string>
+    <string name="action_sort_by">sort by</string>
+    <string name="action_sort_by_popularity">popularity</string>
+    <string name="action_sort_by_top_rated">top rated</string>
 </resources>
